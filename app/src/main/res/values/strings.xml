@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dental Clinic App</string>
+    <string name="crearcuenta">CREAR CUENTA</string>
+    <string name="bienvenido">¡BIENVENIDO!</string>
+    <string name="registrate">REGISTRARSE</string>
+    <string name="about">SOBRE NOSOTROS</string>
+    <string name="vermiscitas">VER MIS CITAS</string>
+    <string name="singup">¿Ya tienes cuenta? <u>Inicia aquí</u></string>
+    <string name="agendarcitas">AGENDAR CITA</string>
+    <string name="miperfil">MI PERFIL</string>
+
+    <string name="cerrarsesion">CERRAR SESIÓN</string>
+    <string-array name="dentistas_array">
+        <item>Moreno Andrade Luis Ángel</item>
+        <item>Sarrazin Quihuis Jesús Arturo</item>
+        <item>Montiel Corral José Andrés</item>
+        <item>Antelo Lopez Baltazar</item>
+        <item>Duarte Gonzalez Juan Ernesto</item>
+    </string-array>
+
+    <string-array name="clinicas_array">
+        <item>Clinica principal</item>
+    </string-array>
+
+
+</resources>
